@@ -1,3 +1,3 @@
 [submodule "cryptoauthlib"]
 	path = cryptoauthlib
-	url = git@github.com:MicrochipTech/cryptoauthlib.git
+	url = git@github.com:MY201314MY/cryptoauthlib.git
